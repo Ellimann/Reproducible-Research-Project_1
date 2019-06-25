@@ -1,0 +1,5 @@
+library(datasets)
+> setwd("C:/Users/Ndoye/Desktop")
+> View(activity)
+> data<-read.csv("activity.csv")
+> data$date<-as.Date(data$date)
