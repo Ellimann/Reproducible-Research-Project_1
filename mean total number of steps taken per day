@@ -1,0 +1,2 @@
+mean(sum_steps$x)
+median(sum_steps$x)
